@@ -21,7 +21,7 @@ If you are adding a bug report, please add detailed steps within the issue to re
 
 This information will help to narrow down the issue as quickly as possible. 
 
-If you have a feature request, a new integration idea or you would like to file a bug report, please use this [Github issue tracker](https://github.paypal.com/DeveloperPlatform-R/paypalappsupport/issues). 
+If you have a feature request, a new integration idea or you would like to file a bug report, please use this [Github issue tracker](https://github.com/paypal-examples/paypal-dev-support/issues). 
 
 ## The Community
 
