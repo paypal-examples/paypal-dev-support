@@ -10,7 +10,7 @@ What goes here:
 - Feature Requests
 
 What does not go here:
-- Account issues
+- Account issues (Any issues directly related to a PayPal Account, go to https://www.paypal.com/us/smarthelp/contact-us)
 
 We _recommend_ that you search the issue tracker to check if someone else has already reported the issue and whether there is a known solution that you can use. This would be the fastest way to find a solution to any issue that you are currently facing.
 
