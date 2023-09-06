@@ -25,20 +25,20 @@ If you have a feature request, a new integration idea or you would like to file 
 
 ## The Community
 
-Read the DevRel blog <a href="https://dev.to/paypaldeveloper">
+Read the DevRel blog ("https://dev.to/paypaldeveloper")
 
-Ask questions in the PayPal Technical Support community <a href="https://www.paypal-community.com/mts">. <br />
+Ask questions in the PayPal Technical Support community (https://www.paypal-community.com/mts"). <br />
 
 Stay up to date on the latest news, features, and releases by following the PayPalDev community on X [@paypaldev](https://twitter.com/paypaldev).
 
-Attend our Meetups: [https://www.meetup.com/paypal-developer-community/](https://www.meetup.com/paypal-developer-community/)
+Attend our Meetups: (https://www.meetup.com/paypal-developer-community/)
 
 ## Documentation and Tutorials
 
-If you are looking for more information regarding features, installation, and usage of the app, head over to the <a target="_blank" href="https://developer.paypal.com/docs/online/">documentation section on our website</a>. <br />
-You can also have a look at the technology blog at <a target="_blank" href="https://medium.com/paypal-tech">https://medium.com/paypal-tech</a> for interesting technical topics. <br/>
+If you are looking for more information regarding features, installation, and usage of the app, head over to the <a target="_blank" href="https://developer.paypal.com/docs/online/">documentation section on our website</a>. <br/>
+You can also have a look at the technology blog at ("https://medium.com/paypal-tech">https://medium.com/paypal-tech) for interesting technical topics. <br/>
 
-Follow our Youtube Channel : [https://www.youtube.com/@paypaldeveloper2358/featured](https://www.youtube.com/@paypaldeveloper2358/featured)    
+Follow our Youtube Channel: (https://www.youtube.com/@paypaldev)    
 
 
 ## About PayPal Developer Experience
