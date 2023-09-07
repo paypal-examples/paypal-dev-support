@@ -27,7 +27,7 @@ If you have a feature request, a new integration idea or you would like to file 
 
 Read the [DevRel blog](https://dev.to/paypaldeveloper).
 
-Ask questions in the [PayPal Technical Support community](https://www.paypal-community.com/mts"). <br />
+Ask questions in the [PayPal Technical Support community](https://www.paypal-community.com/mts). <br />
 
 Stay up to date on the latest news, features, and releases by following the PayPalDev community on X [@paypaldev](https://twitter.com/paypaldev).
 
